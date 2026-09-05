@@ -1,0 +1,11 @@
+dataset/
+review_fix/
+streetview_images/
+streetview_images_v3/
+unseen_no_pole/
+unseen_pole/
+.venv/
+.venv312/
+.env
+
+
