@@ -1,0 +1,5 @@
+Backend is deployed using Flask
+    Flask
+    flask-cors
+    inference-sdk
+    gunicorn
